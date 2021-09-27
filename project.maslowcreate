@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Lower Clamp",
-            "x": 0.19985358711566617,
-            "y": 0.3053435114503817,
+            "x": 0.20571010248901903,
+            "y": 0.32061068702290074,
             "uniqueID": 692147,
             "ioValues": [],
             "topLevel": false,
@@ -1146,7 +1146,7 @@
                     "atomType": "Molecule",
                     "name": "Face Wall",
                     "x": 0.21522693997071743,
-                    "y": 0.7938931297709924,
+                    "y": 0.767175572519084,
                     "uniqueID": 648714,
                     "ioValues": [],
                     "topLevel": false,
@@ -1160,7 +1160,7 @@
                             "ioValues": [
                                 {
                                     "name": "x length",
-                                    "ioValue": 7
+                                    "ioValue": 6
                                 },
                                 {
                                     "name": "y length",
@@ -2405,7 +2405,7 @@
                 },
                 {
                     "name": "yDist",
-                    "ioValue": 50
+                    "ioValue": 60
                 },
                 {
                     "name": "zDist",
